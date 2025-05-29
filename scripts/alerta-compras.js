@@ -19,7 +19,8 @@
     Object.assign(notificacao.style, {
       position: "fixed",
       bottom: "20px",
-      left: "20px",
+      left: "50%",
+      transform: "translateX(-50%)",
       background: "#fff",
       color: "#333",
       padding: "12px 20px",
